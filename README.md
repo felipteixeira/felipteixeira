@@ -1,6 +1,6 @@
 Oi! 👋🏻
 
-I'm Felipe Teixeira, I have been working as a System Administrator for about 10 years. <br/>
+I'm a professional with + 10 years of experience in IT, working as System Administrator.. <br/>
 Development enthusiast, I'm studying the tools focused on the React ecosystem. <br/>
 
 
